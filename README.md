@@ -44,6 +44,8 @@ We also provide a couple of files as alternate annotations (trainEgoDaily and te
 Path
 im_width im_height
 # annotations
+x y width height
+x y width height
 ```
 
 ### Citing EgoDaily
