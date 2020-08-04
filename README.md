@@ -47,7 +47,7 @@ im_width im_height
 x y width height
 x y width height
 ```
-Finally, we also provide a python program to generate the annotations on a pkl format to be able to train the object detection toolboc [MMDetection](https://drive.google.com/file/d/1FXlAUc2G0nRckcR01iHZP4RRyowSSzDh/view?usp=sharing). 
+Finally, we also provide a python program to generate the annotations on a pkl format to be able to train the object detection toolbox [MMDetection](https://drive.google.com/file/d/1FXlAUc2G0nRckcR01iHZP4RRyowSSzDh/view?usp=sharing). 
 This would allow implementations using various state-of-the-art methods on the dataset.
 
 ### Citing EgoDaily
