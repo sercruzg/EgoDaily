@@ -39,6 +39,18 @@ The groundtruth hand bounding boxes were annotated manually containing the whole
 
 The annotations are in a MATLAB file with a variable "impos" with multiple fields. "im" field is the path to the image. The "boxes" field represent the top left and right bottom corner of the hand. The field "left" represents 1 if it is a left hand, 0 otherwise.
 
+We also provide a couple of files as alternate annotations (trainEgoDaily and testEgoDaily) with the following format:
+```
+# images
+Path
+im_width im_height
+# annotations
+Path
+im_width im_height
+# annotations
+...
+```
+
 ### Citing EgoDaily
 If you find the EgoDaily dataset useful in your research, please consider citing:
 ```
